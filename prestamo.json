@@ -7,7 +7,7 @@
             "img": "img/1.jfif"
         },
 		{
-            "name": "El pozo",
+            "titulo": "El pozo",
             "cantidad": 1,
             "dias": 12,
             "img": "img/4.jfif"

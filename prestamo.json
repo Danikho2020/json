@@ -6,11 +6,17 @@
             "dias": 9,
             "img": "img/1.jfif"
         },
-		{
+	{
             "titulo": "El pozo",
             "cantidad": 1,
             "dias": 12,
             "img": "img/4.jfif"
+        },
+	{
+            "titulo": "La tregua",
+            "cantidad": 3,
+            "dias": 15,
+            "img": "img/2.jfif"
         }
     ]
 }

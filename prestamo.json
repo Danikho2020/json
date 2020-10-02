@@ -11,12 +11,6 @@
             "cantidad": 1,
             "dias": 12,
             "img": "img/4.jfif"
-        },
-	{
-            "titulo": "La tregua",
-            "cantidad": 3,
-            "dias": 15,
-            "img": "img/2.jfif"
         }
     ]
 }

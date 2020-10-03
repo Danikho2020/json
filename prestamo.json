@@ -1,10 +1,10 @@
 {
     "libros": [
         {
-            "titulo": "Cuentos de amor de locura y de muerte",
+            "titulo": "La tregua",
             "cantidad": 2,
             "dias": 9,
-            "img": "img/1.jfif"
+            "img": "img/5.jfif"
         },
 	{
             "titulo": "El pozo",

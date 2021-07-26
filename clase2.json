@@ -1,0 +1,39 @@
+{
+    "numero": 240,
+    "dia": "Jueves",
+    "horario": "18:00 a 20:00",
+    "alumnos": [
+        {
+            "nombre": "Luis",
+            "apellidos": [
+                "Fagundez",
+                "Gonzalez"
+            ],
+            "edad": 19
+        },
+        {
+            "nombre": "Valentina",
+            "apellidos": [
+                "Juarez",
+                "Castellan"
+            ],
+            "edad": 28
+        },
+        {
+            "nombre": "Isabel",
+            "apellidos": [
+                "Roman",
+                "Garisto"
+            ],
+            "edad": 23
+        },
+        {
+            "nombre": "Jhonatan",
+            "apellidos": [
+                "Blas",
+                "Díaz"
+            ],
+            "edad": 25
+        }
+    ]
+}

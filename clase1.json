@@ -1,0 +1,39 @@
+{
+    "numero": 190,
+    "dia": "Lunes",
+    "horario": "08:00 a 10:00",
+    "alumnos": [
+        {
+            "nombre": "Juana",
+            "apellidos": [
+                "Perez",
+                "Diaz"
+            ],
+            "edad": 25
+        },
+        {
+            "nombre": "Jorge",
+            "apellidos": [
+                "Gomez",
+                "Rodriguez"
+            ],
+            "edad": 25
+        },
+        {
+            "nombre": "Romina",
+            "apellidos": [
+                "Perdomo",
+                "Sanchez"
+            ],
+            "edad": 18
+        },
+        {
+            "nombre": "Alvaro",
+            "apellidos": [
+                "Samudio",
+                "Alvez"
+            ],
+            "edad": 30
+        }
+    ]
+}

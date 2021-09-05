@@ -1,0 +1,8 @@
+{
+    "titulo": "La tregua",
+    "isbn": "ISBN - 902 - 9234",
+    "editorial": "Editorial B",
+    "paginas": "300",
+    "autor": "Mario Benedetti",
+    "librosRelacionados": [1, 3]
+}

@@ -1,0 +1,8 @@
+{
+    "titulo": "Pequeña ala",
+    "isbn": "ISBN - 902 - 3999",
+    "editorial": "Editorial B",
+    "paginas": "550",
+    "autor": "Roy Berocay",
+    "librosRelacionados": [2, 5]
+}

@@ -4,10 +4,5 @@
     "editorial": "Editorial A",
     "paginas": "200",
     "autor": "Horacio Quiroga",
-    "images": [
-        "img/1.jfif",
-        "img/2.jfif",
-        "img/3.jfif"
-    ],
     "librosRelacionados": [2, 4]
 }

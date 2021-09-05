@@ -1,0 +1,8 @@
+{
+    "titulo": "El pozo",
+    "isbn": "ISBN - 902 - 9245",
+    "editorial": "Editorial C",
+    "paginas": "250",
+    "autor": "Juan Carlos Onetti",
+    "librosRelacionados": [1, 2]
+}
